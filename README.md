@@ -1,2 +1,2 @@
-# DataMining
-use for learning data mining
+# Start Learning Data Science
+basical technology for becoming a date scientist   
